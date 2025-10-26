@@ -1,5 +1,7 @@
 # DZkLK4-1710
 # Приложение профиля пользователя на PySide6
+# Скриншот приложения
+<img width="916" height="1479" alt="image" src="https://github.com/user-attachments/assets/87fcb3b5-efc4-4b64-8aee-b9f2c12d1219" />
 
 ## Описание проекта
 Графическое приложение на Python с использованием фреймворка PySide6 для отображения профиля пользователя.
