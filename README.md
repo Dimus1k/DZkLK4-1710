@@ -19,4 +19,4 @@
 
 ### Клонируйте репозиторий:
 ```bash
-git clone https://github.com/D1musik/user-profile-pyside.git
+git clone https://github.com/D1musik/DZkLK4-1710-PySide6.git
