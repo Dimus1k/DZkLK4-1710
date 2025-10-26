@@ -13,10 +13,10 @@
 ## Технологии
 - Python 3.x
 - PySide6 - для графического интерфейса
-- Qt - кроссплатформенная библиотека
+
 
 ## Установка и запуск
 
 ### Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-username/user-profile-pyside.git
+git clone https://github.com/D1musik/user-profile-pyside.git
